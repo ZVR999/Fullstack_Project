@@ -1,0 +1,6 @@
+List directory contents
+
+
+Tips:
+
+Use ls -lha to list out a directories contents as a list, showing the sizes of the files and directories included, and show hidden files. << I like use these flags regularly and have been testing out the -R flag to list out sub directories.
