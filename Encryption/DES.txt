@@ -1,0 +1,6 @@
+Data Encryption Standard-block cipher
+
+This private key encryption standard is used to encrypt files with a cryptographic key and algorithm which are applied to seperate 64-bits of data (blocks).
+
+While once a very important part of cybersecurity, it's short key length of 56 bits ensures that it's too insecure to be used in actual practice today as it is susceptible to brute force attacks. 
+

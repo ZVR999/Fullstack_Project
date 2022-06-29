@@ -1,0 +1,7 @@
+Internet Protocol
+
+A network layer communications protocol.
+
+Part of the Internet protocol suite that helps datagrams get to where they need to go (a major foundation of the internet)
+
+Transmission is based on IP addresses that are stored and used in the IP headers of the packets being sent and received.

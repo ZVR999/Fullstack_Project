@@ -1,0 +1,7 @@
+Secure Shell
+
+A method for securing sessions between network computers.
+
+In example on a linux:  ssh doe@192.168.92.124
+
+Then enter the password needed and bam we in!
