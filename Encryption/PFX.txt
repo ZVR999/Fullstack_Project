@@ -1,0 +1,7 @@
+X.509 certificate's original file extension.
+
+Use by Microsoft and holds both the public and private keys while being fully encrypted.
+
+OpenSSL can be used to convert the PFX file into a PEM encoded file. 
+
+One of the most common file types for exporting next to PEM certificates. 
