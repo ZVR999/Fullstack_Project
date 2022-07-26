@@ -1,5 +1,0 @@
-Print the name of current/working directory
-
-This can be helpful if you've been moving around a lot within directories and you need to double check where you currently are.
-
-In addition, when gaining access to a remote computer through normal or penetration testing methods, it can be a good practice/habit to get into to check where the shell opened up into.
