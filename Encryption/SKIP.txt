@@ -1,9 +1,0 @@
-Simple Key Management Protocol
-
-A key management and distribution protocol used for secure IP communication.
-
-Uses hybrid encryption to convey session keys.
-
-These session keys are used to encrypt data in IP packets.
-
-Uses a key exchange algorithm.
